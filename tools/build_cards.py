@@ -49,6 +49,7 @@ PROFILE = [
     ("kv", "Email", "manscientificks@gmail.com"),
     ("kv", "LinkedIn", "shiven-kumar-1549b327a"),
     ("kv", "GitHub", "shiven-devs"),
+]
    
 STATS_NOTE = "Stats are a snapshot from 13 Nov 2026."  # kept in <desc>, not drawn
 

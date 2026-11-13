@@ -28,7 +28,7 @@ PROFILE = [
     ("kv", "Batch", "Class of 2028 | CGPA 8.7"),
     ("kv", "Role", "Full Stack & Backend Developer"),
     ("blank",),
-    ("kv", "Languages.Programming", "Python, C++, C, JS, TS"),
+    ("kv", "Languages.Programming", "C++, C, JS, TS"),
     ("kv", "Languages.Computer", "SQL (MySQL, PostgreSQL)"),
     ("kv", "Backend", "FastAPI, Node.js, Express, Socket.IO"),
     ("kv", "Frontend", "React, Next.js, React Native / Expo"),
@@ -37,7 +37,6 @@ PROFILE = [
     ("section", "Projects"),
     ("kv", "ACSBIO", "NEET mock-test platform (client work)"),
     ("kv", "mini_vercel", "GitHub URL -> live app on AWS Fargate"),
-    ("kv", "Telvara", "Traffic ML, 46.4% RMSE gain, 1,329 sites"),
     ("kv", "Imagify", "AI image platform, JWT + Razorpay credits"),
     ("kv", "gossipmesh", "Gossip protocol on scalable systems"),
     ("section", "Highlights"),
@@ -45,15 +44,12 @@ PROFILE = [
     ("kv", "Rank 16", "IIIT Hyderabad All India Online Hackathon"),
     ("kv", "Top 5", "Build for Bengaluru Hackathon"),
     ("kv", "Hosted", "Full-day AI hackathon, 40+ participants"),
-    ("kv", "DSA", "200+ problems solved"),
+    
     ("section", "Contact"),
     ("kv", "Email", "manscientificks@gmail.com"),
     ("kv", "LinkedIn", "shiven-kumar-1549b327a"),
     ("kv", "GitHub", "shiven-devs"),
-    ("section", "GitHub Stats"),
-    ("kv2", ("Repos", "53"), ("Followers", "5")),
-    ("kv2", ("Contributions", "236"), ("Following", "13")),
-]
+   
 STATS_NOTE = "Stats are a snapshot from 13 Nov 2026."  # kept in <desc>, not drawn
 
 # ----------------------------------------------------------------------------

@@ -19,7 +19,7 @@ import os
 # Content (everything here comes from the resume / GitHub profile)
 # ----------------------------------------------------------------------------
 HANDLE = "shiven@kumar"
-UPTIME_FALLBACK = "22 years, 4 months"   # used when --born is not passed
+UPTIME_FALLBACK = "20 years, 9 months"   # used when --born is not passed
 
 PROFILE = [
     ("kv", "Uptime", "{uptime}"),
